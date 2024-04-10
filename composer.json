@@ -1,0 +1,17 @@
+{
+    "name": "marketing/lizg",
+    "autoload": {
+        "psr-4": {
+            "Marketing\\Lizg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "REDINCO",
+            "email": "REDINCO@redinco.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
